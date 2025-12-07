@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+=> REACT JS FULL COURSE - WAVE 2 #deacourse
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
