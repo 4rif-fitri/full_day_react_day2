@@ -31,7 +31,7 @@ const Main = () => {
       </InputGroup>
 
       <h1 className="text-center mt-2">{hasilNama}</h1>
-
+    
       <InputGroup className="shadow mt-3">
         <Form.Control value={null} onChange={(e) => setnamaOrang(e.target.value)} type="text" placeholder="Name..." />
         <Button onClick={() => setListOrang([namaOrang,...listOrang])} variant="success">SAVE</Button>
